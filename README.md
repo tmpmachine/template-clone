@@ -4,8 +4,9 @@ Add `querySelector()` and `querySelectorAll()` to a cloned node from `<template>
 Available on jsDelivr :
 ```html
 <script src="https://cdn.jsdelivr.net/gh/tmpmachine/template-clone@main/tmpclone.js"></script>
-
-<!-- Or use minified version -->
+```
+Or use minified version :
+```html
 <script src="https://cdn.jsdelivr.net/gh/tmpmachine/template-clone@main/tmpclone.min.js"></script>
 ```
 
